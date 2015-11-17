@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{45C6F875-BEF5-4872-AB78-CCE29B8ABD2E}"
+	ProjectSection(SolutionItems) = preProject
+		image1_big.html = image1_big.html
+		index.html = index.html
+		Style.css = Style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "html", "html", "{4225237A-9858-471C-BC86-5C0A44842D03}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{45C6F875-BEF5-4872-AB78-CCE29B8ABD2E} = {4225237A-9858-471C-BC86-5C0A44842D03}
+	EndGlobalSection
+EndGlobal
